@@ -1,12 +1,23 @@
 {
   "anytime": [
     "Be yourself; everyone else is already taken.",
-    "Live as if you were to die tomorrow. Learn as if you were to live forever."
+    "Live as if you were to die tomorrow.",
+    "Learn as if you were to live forever."
   ],
   "morning": [
     "Good morning, sunshine!",
     "Who needs coffee when you have your smile?",
-    "Go get 'em, Tiger!"
+    "Go get 'em, Tiger!",
+    "Rise and shine!",
+    "Start your day with a smile.",
+    "Seize the day!",
+    "Make today amazing.",
+    "Good morning, world!",
+    "New day, new beginnings.",
+    "Embrace the possibilities.",
+    "You've got this!",
+    "Spread positivity like confetti.",
+    "Let your light shine bright."
   ],
   "afternoon": [
     "Hitting your stride!",
@@ -16,6 +27,46 @@
   "evening": [
     "You made someone smile today, I know it.",
     "You are making a difference.",
-    "The day was better for your efforts."
+    "The day was better for your efforts.",
+    "Embrace the peace within.",
+    "Cherish the warmth of loved ones.",
+    "Gratitude fills the heart.",
+    "Endless possibilities await.",
+    "Solace in the present moment.",
+    "Shared laughter brings joy.",
+    "You are loved and appreciated.",
+    "Every challenge, growth opportunity.",
+    "Embrace the promise of a new dawn.",
+    "Find strength in resilience."
+  ],
+  "....-01-01": [
+    "Happy New Year!"
+  ],
+  "....-02-14": [
+    "Happy Valentine's Day!"
+  ],
+  "....-03-17": [
+    "Happy St. Patrick's Day!"
+  ],
+  "....-04-01": [
+    "Happy April Fools' Day!"
+  ],
+  "....-05-04": [
+    "May the 4th Be With You"
+  ],
+  "....-05-05": [
+    "Happy Cinco de Mayo!"
+  ],
+  "....-07-04": [
+    "Happy Independence Day!"
+  ],
+  "....-10-31": [
+    "Happy Halloween!"
+  ],
+  "....-11-11": [
+    "Happy Veterans Day!"
+  ],
+  "....-12-25": [
+    "Merry Christmas!"
   ]
 }
